@@ -10,6 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "karma": "1.7.0",
-    "express-cart": "1.0.1"
+    "express-cart": "1.1.17"
   }
 }
