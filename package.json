@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "karma": "1.7.0",
+    "karma": "6.3.16",
     "express-cart": "1.0.1"
   }
 }
